@@ -1,0 +1,15 @@
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\bin\Debug\net7.0\AtividadeIX.exe
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\bin\Debug\net7.0\AtividadeIX.deps.json
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\bin\Debug\net7.0\AtividadeIX.runtimeconfig.json
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\bin\Debug\net7.0\AtividadeIX.dll
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\bin\Debug\net7.0\AtividadeIX.pdb
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.csproj.AssemblyReference.cache
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.AssemblyInfoInputs.cache
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.AssemblyInfo.cs
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.csproj.CoreCompileInputs.cache
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.dll
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\refint\AtividadeIX.dll
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.pdb
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\AtividadeIX.genruntimeconfig.cache
+C:\Users\MARIANE CRM\Desktop\IX\AtividadeIX\obj\Debug\net7.0\ref\AtividadeIX.dll
